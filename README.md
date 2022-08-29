@@ -1,4 +1,3 @@
-![Visits](https://badges.pufler.dev/visits/monalice/monalice?logo=google-analytics&labelColor=0D0D0F)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/alice-amorim-3a7760169/)
 
 <!DOCTYPE html>
