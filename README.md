@@ -17,6 +17,7 @@
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <br/> </div><br>
                    <a href="https://github.com/monalice">
                 <img align="center" height="170px" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monalice&layout=compact&hide=php&theme=highcontrast"/>
