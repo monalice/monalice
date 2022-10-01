@@ -1,3 +1,4 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=monalice%20&fontAlignY=40&color=gradient)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/alice-amorim-3a7760169/)
 
 <!DOCTYPE html>
