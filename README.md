@@ -20,8 +20,7 @@
 <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <br/> </div><br>
                    <a href="https://github.com/monalice">
-                <img align="left" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api?username=monalice&show_icons=true&theme=highcontrast&margin-w=15&margin-y=15"/>
-                <img align="right" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monalice&layout=compact&hide=php&theme=highcontrast&margin-w=15&margin-h=15"/>
+                <img align="center" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monalice&layout=compact&hide=php&theme=highcontrast&margin-w=15&margin-h=15"/>
             </main>
      </body>
 </html>
